@@ -1,6 +1,3 @@
-        ##pops loves his little dog
-        #pops loves his dog
-
 from time import time
 
 class Matter():
